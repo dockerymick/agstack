@@ -2,22 +2,22 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: RHACM doc process # the website title (if blank, full name will be used instead)
-first_name: Red Hat
+title: AgStack # the website title (if blank, full name will be used instead)
+first_name: Linux
 middle_name:
 last_name:
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Internal guides, resources, and onboarding tools for the ACM docs team.
+  Guides, projects, and resources that have information about the AgStack team and their efforts.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords:  # add your own keywords or leave empty
+keywords: AgStack, agriculture, digital transfotmation # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🐿️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assests/img/agstack-logo # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://stolostron.github.io # the base hostname & protocol for your site
+url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
