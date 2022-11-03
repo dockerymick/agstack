@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects
 nav: true
-nav_order:
+nav_order: 1
 dropdown: true
 children: 
     - title: Asset registry
@@ -14,7 +14,4 @@ children:
     - title: divider
     - title: MessageCast
       permalink: /message_cast
-    - title: divider
-    - title: Creating books
-      permalink: /new_guide_setup
 ---
