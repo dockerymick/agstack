@@ -1,29 +1,17 @@
 ---
 layout: page
-title: Architecture
-permalink: /arch_main
+title: Projects
+permalink: /projects
 nav: true
 nav_order: 2
 dropdown: true
 children:
-    - title: Refreshing builds
-      permalink: /arch_builds
+    - title: Asset registry
+      permalink: /asset_registru
     - title: divider
-    - title: Creating builds
-      permalink: /create_builds
+    - title: Agriculture recommendations
+      permalink: /ag_rec
     - title: divider
-    - title: Branching strategy
-      permalink: /arch_branching
-    - title: divider
-    - title: Creating books
-      permalink: /new_guide_setup
-    - title: divider
-    - title: Deprecations
-      permalink: /plan_deprecation
-    - title: divider
-    - title: Board maintenance
-      permalink: /board_maintenance
-    - title: divider
-    - title: Issue points
-      permalink: /arch_points
+    - title: MessageCast
+      permalink: /message_cast
 ---
