@@ -6,7 +6,25 @@
 
 This repository hosts the website code for the AgStack Foundation project (`agstack`). This Linux Foundation project is an operating system for food and agriculture applications run by members and users. Access software infrastructure like tools, frameworks, and models that are needed to build, manage, and run applications through open source. 
 
-## Prerequisites
+## Architectural overview
+
+AgStack is an open source digital infrastructure for agricultural ecosystems. Use the AgStack     project to create, publish and use agronomically-relevant software and data. The following components comprise the AgStack architecture: Frameworks, Models, Extensions and toolboxes, and Data (hosted web services, Digital Public Goods (DPG), etc).
+
+View the following diagram:
+
+<p align="center">
+<img src="assets/img/agstack-foundation-diagram-1.png" alt="Overview of stack" width=400 >
+</p>
+
+## Technical architecture
+
+<p align="center">
+<img src="assets/img/technical-arch-agstack.png" alt="Technical architecture diagram of stack" width=400 >
+</p>
+
+
+<!--consider creating another repository or folder for the community to contribute-->
+<!--## Prerequisites
 
 - [GitHub account](https://github.com/)
 - [Retrieve your Git keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys)
@@ -31,7 +49,7 @@ This website is already deployed using [GitHub Pages](https://pages.github.com/)
 1. In `_config.yml`, set `url` to `https://<your-github-username>.github.io` and `baseurl` to `/<your-repository-name>/`.
 2. Set up automatic deployment of your webpage.
 3. Make changes, commit, and push.
-4. After deployment, the webpage becomes available at `<your-github-username>.github.io/<your-repository-name>/`.
+4. After deployment, the webpage becomes available at `<your-github-username>.github.io/<your-repository-name>/`.-->
 
 ## Licenses
 
