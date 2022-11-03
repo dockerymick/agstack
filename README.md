@@ -1,8 +1,8 @@
 # Link to the website
 
-[<img src="https://cdn-icons-png.flaticon.com/512/1864/1864534.png">](https://stolostron.github.io/rhacm-docs)
+[<img src="agstack-logo.png">](https://github.com/agstack)
 
-# Building with Jekyll
+<!--# Building with Jekyll
 
 If you only want to maintain this website, you can skip to [Maintaining](/README.md#Maintaining). If you want to create a new project similar to this website, you need Jekyll and Ruby. See the following topics for a complete guide on installing Jekyll and Ruby on MacOS.
 
@@ -245,5 +245,5 @@ If rebasing causes too many issues or fails, reinstall the new version of the th
 
 # License
 
-[Al-folio](https://github.com/alshedivat/al-folio) is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE). Originally, it was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license).
+[Al-folio](https://github.com/alshedivat/al-folio) is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE). Originally, it was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license).-->
 
