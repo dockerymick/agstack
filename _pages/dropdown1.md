@@ -1,23 +1,20 @@
 ---
 layout: page
-title: Get started
-permalink: /getting_started_main
+title: Projects
+permalink: /projects
 nav: true
-nav_order: 1
+nav_order:
 dropdown: true
 children: 
-    - title: Software
-      permalink: /onboarding_software
+    - title: Asset registry
+      permalink: /asset_registru
     - title: divider
-    - title: GitHub
-      permalink: /getting_started_github
+    - title: Agriculture recommendations
+      permalink: /ag_rec
     - title: divider
-    - title: Learning Markdown
-      permalink: /getting_started_markdown
+    - title: MessageCast
+      permalink: /message_cast
     - title: divider
-    - title: Images
-      permalink: /images_guide
-    - title: divider
-    - title: Technical resources
-      permalink: /resources_technical
+    - title: Creating books
+      permalink: /new_guide_setup
 ---
