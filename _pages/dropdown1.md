@@ -7,7 +7,7 @@ nav_order: 1
 dropdown: true
 children: 
     - title: Asset registry
-      permalink: /asset_registru
+      permalink: /asset_registry
     - title: divider
     - title: Agriculture recommendations
       permalink: /ag_rec

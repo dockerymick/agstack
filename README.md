@@ -39,7 +39,7 @@ There are independent projects within the AgStack projects, and more can be adde
 | [`user-registry`](https://github.com/agstack/user-registry) | API for registering a user and getting (via email / OTP) a public and a private set of credentials that are be used for all `ag-stack` projects | Hosted web service |
 | [`MessageCast`](https://github.com/agstack/MessageCast) | Mobile websockets asynchronous message bus that allows users to publish and subscribe messages on a “topic” (which is a channel) [including using forms - see form-hub]. Importantly, all images | Software framework |
 
-
+<!--check which symbol to use to create the table-->
 
 
 
