@@ -76,4 +76,5 @@ This website is already deployed using [GitHub Pages](https://pages.github.com/)
 ## Licenses
 
 * [Apache 2.0](https://www.apache.org/licenses/)
+* [Community Data License 2.0](https://cdla.dev/permissive-2-0/)
 
