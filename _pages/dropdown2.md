@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Projects
-permalink: /projects
+title: APIs
+permalink: /apis
 nav: true
-nav_order: 1
+nav_order: 2
 dropdown: true
 children: 
     - title: Asset registry
