@@ -4,7 +4,6 @@ title: About
 permalink: /about
 horizontal: false
 nav: true
-nav_order: 1
 ---
 
 AgStack Foundation is commissioning software infrastructure like tools, frameworks, and models that are needed to build, manage, and run applications through open source. This Linux Foundation project is an operating system for food and agriculture applications run by members and users.  
