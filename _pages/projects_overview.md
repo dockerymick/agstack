@@ -6,7 +6,7 @@ horizontal: false
 nav: true
 ---
 
-## Projects
+## Project table description
 <!--descriptions need to be revised-->
 There are independent projects within the AgStack projects, and more can be added depending on community participation. View the following table list of the projects within AgStack:
 
