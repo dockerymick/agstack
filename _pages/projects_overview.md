@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects
+permalink: /projects_overview
 horizontal: false
 nav: true
 ---
