@@ -2,9 +2,7 @@
 
 [<img src="assets/img/agstack-logo.png">](https://github.com/agstack)
 
-### About 
-
-This repository hosts the website code for the AgStack Foundation project (`agstack`). This Linux Foundation project is an operating system for food and agriculture applications run by members and users. Access software infrastructure like tools, frameworks, and models that are needed to build, manage, and run applications through open source. 
+This Linux Foundation project is an operating system for food and agriculture applications run by members and users. Access software infrastructure like tools, frameworks, and models that are needed to build, manage, and run applications through open source. 
 
 ## Architectural overview
 
