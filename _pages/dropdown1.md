@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects
+permalink: /projects_overview
 nav: true
 nav_order: 1
 dropdown: true
