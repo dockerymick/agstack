@@ -4,7 +4,6 @@ title: Contribute
 permalink: contribute
 horizontal: false
 nav: true
-nav_order: 4
 ---
 
 Consider improving the AgStack project by contributing your ideas, thoughts, and feedback.
