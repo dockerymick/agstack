@@ -3,7 +3,7 @@ layout: page
 title: Ag Recommendations
 permalink: /ag_rec
 horizontal: false
-nav: true
+nav: false
 ---
 
 # AgRec (Prototype)
