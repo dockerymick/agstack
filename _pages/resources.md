@@ -4,6 +4,7 @@ title: Resources
 permalink: /resources
 horizontal: false
 nav: true
+nav_order: 5
 ---
 
 View the list of open resources and documents for AgStack projects. Visit these resources, where you can provide feedback and comments, for more insight on the projects
