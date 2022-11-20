@@ -3,7 +3,7 @@ layout: page
 title: Project overview
 permalink: /projects_overview
 horizontal: false
-nav: true
+nav: false
 ---
 
 ## Project table description
