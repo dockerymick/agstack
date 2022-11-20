@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resource
+title: Resources
 permalink: /resources
 horizontal: false
 nav: true
