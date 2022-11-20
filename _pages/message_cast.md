@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MessageCast
-permalink: /message-cast
+permalink: /message_cast
 horizontal: false
 nav: false
 ---
