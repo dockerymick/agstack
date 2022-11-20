@@ -19,7 +19,7 @@ AgRec is an open source Agriculture Recommendations provided by the [Cooperative
 We are leveraging the Elasticsearch, Enterprise Search and Kibana to upload, store and retrive the recommendations data. Also we are utilizing the Search UI to view the recommendation data from the browser.
 
 <p align="center">
-  <img src="./images/readme/architecture.PNG" alt="AgRec Solution Design" width ="75%" height="75%">
+  <img src="./assets/img/ag-rec-arch.png" alt="AgRec Solution Design" width ="75%" height="75%">
 </p>
 
 The Cooperative Extension Service will upload their agriculture recommendation data to Elasticsearch's Enterprise App Search engine through Kibana or directly from the Enterprise Search Dashboard.
