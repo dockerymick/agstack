@@ -4,6 +4,10 @@
 
 This Linux Foundation project is an operating system for food and agriculture applications run by members and users. Access software infrastructure like tools, frameworks, and models that are needed to build, manage, and run applications through open source. 
 
+
+[![Linux Foundation Launches AgStack YouTube video](/assets/img/youtube_image.png)](https://www.youtube.com/watch?v=C_TO86dGjXg "Linux Foundation Launches AgStack")
+
+
 ## Architectural overview
 
 AgStack is an open source digital infrastructure for agricultural ecosystems. Use the AgStack     project to create, publish and use agronomically-relevant software and data. The following components comprise the AgStack architecture: 
