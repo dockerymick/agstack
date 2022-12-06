@@ -25,3 +25,7 @@ View the list of open resources and documents for AgStack projects. Visit these 
 ## Blogs
 
 - [Digital infrastructure for managing field polygons: AgStack’s Asset Registry @ The Linux Foundation](https://medium.com/@sumer.johal_80128/digital-infrastructure-for-managing-field-polygons-agstacks-asset-registry-the-linux-foundation-e46c5e754cac)
+
+- [MessageCast and AgNet: Unleashing Collaboration, IoT and Machine Learning for Agriculture — Through Open Source](https://docs.google.com/document/d/1o-mf_VQddPSoW5H5jTTYpDdpJE1mS6RyyLYW6ASZ7bA/edit#heading=h.yv08vn4q249n)
+
+- [MessageCast and AgNet](https://medium.com/@mjackson08/messagecast-and-agnet-c662079f0410)
